@@ -1,0 +1,150 @@
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     /Users/madakhil/nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     /Users/madakhil/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+Run stats
+TGT LANG hi
+Running BLEU Scores for Ollama
+Running BLEU Scores for hi OLLAMA
+Avg. ollama_bleu_score 0.28844
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8876941528320312
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.5882699122571153
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'ollama_bleu_score', 'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG mr
+Running BLEU Scores for Ollama
+Running BLEU Scores for mr OLLAMA
+Avg. ollama_bleu_score 0.09426999999999999
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8458032836914062
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.4056405247032567
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'ollama_bleu_score', 'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG te
+Running BLEU Scores for Ollama
+Running BLEU Scores for te OLLAMA
+Avg. ollama_bleu_score 0.0821
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8457932739257813
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.38238750904287017
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'ollama_bleu_score', 'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+Run stats
+TGT LANG as
+Running BLEU Scores for Ollama
+Running BLEU Scores for as OLLAMA
+Avg. ollama_bleu_score 0.10344999999999999
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8272837524414063
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.3571031392332951
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG bn
+Running BLEU Scores for Ollama
+Running BLEU Scores for bn OLLAMA
+Avg. ollama_bleu_score 0.13238
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.86251708984375
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.41003491450917806
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG gu
+Running BLEU Scores for Ollama
+Running BLEU Scores for gu OLLAMA
+Avg. ollama_bleu_score 0.09583000000000001
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8457640991210937
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.4146188722311164
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG kn
+Running BLEU Scores for Ollama
+Running BLEU Scores for kn OLLAMA
+Avg. ollama_bleu_score 0.09764
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8573226928710938
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.39053280744685653
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG ml
+Running BLEU Scores for Ollama
+Running BLEU Scores for ml OLLAMA
+Avg. ollama_bleu_score 0.06290000000000001
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8250098876953125
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.3100607536023368
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG or
+Running BLEU Scores for Ollama
+Running BLEU Scores for or OLLAMA
+Avg. ollama_bleu_score 0.04011
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.9660240478515625
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.28774857452496533
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG pa
+Running BLEU Scores for Ollama
+Running BLEU Scores for pa OLLAMA
+Avg. ollama_bleu_score 0.14628
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8602390747070312
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.45478146675635583
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats   
+TGT LANG ta
+Running BLEU Scores for Ollama
+Running BLEU Scores for ta OLLAMA
+Avg. ollama_bleu_score 0.09622
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8360639038085937
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.3548920163623853
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')

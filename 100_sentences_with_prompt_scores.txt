@@ -1,0 +1,126 @@
+TGT LANG mr
+Running BLEU Scores for Ollama
+Running BLEU Scores for mr OLLAMA
+Avg. ollama_bleu_score 0.07527
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8366590576171875
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.37546947742518366
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+TGT LANG hi
+Running BLEU Scores for Ollama
+Running BLEU Scores for hi OLLAMA
+Avg. ollama_bleu_score 0.23401
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8733787231445312
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.5469242280028014
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG te
+Running BLEU Scores for Ollama
+Running BLEU Scores for te OLLAMA
+Avg. ollama_bleu_score 0.06662
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8369019165039062
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.35272861349776685
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+TGT LANG as
+Running BLEU Scores for Ollama
+Running BLEU Scores for as OLLAMA
+Avg. ollama_bleu_score 0.08024
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8082730712890625
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.31881132046385596
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+TGT LANG bn
+Running BLEU Scores for Ollama
+Running BLEU Scores for bn OLLAMA
+Avg. ollama_bleu_score 0.09663
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8486126708984375
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.35729319346975014
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG gu
+Running BLEU Scores for Ollama
+Running BLEU Scores for gu OLLAMA
+Avg. ollama_bleu_score 0.0705
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8345628051757813
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.3824141063260507
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG kn
+Running BLEU Scores for Ollama
+Running BLEU Scores for kn OLLAMA
+Avg. ollama_bleu_score 0.06191000000000001
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8445341186523437
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.33185000364187
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG ml
+Running BLEU Scores for Ollama
+Running BLEU Scores for ml OLLAMA
+Avg. ollama_bleu_score 0.04223999999999999
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8063815307617187
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.25465225690325166
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+TGT LANG or
+Running BLEU Scores for Ollama
+Running BLEU Scores for or OLLAMA
+Avg. ollama_bleu_score 0.018789999999999998
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.9396754760742188
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.2141201719672634
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats
+TGT LANG pa
+Running BLEU Scores for Ollama
+Running BLEU Scores for pa OLLAMA
+Avg. ollama_bleu_score 0.09633000000000001
+Running BERT Scores for Ollama
+Avg. ollama_f1_score 0.8332656860351563
+Running METEOR Scores for Ollama
+Avg. ollama_meteor_score 0.3902170181701132
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'ollama_trans', 'ollama_bleu_score',
+       'ollama_f1_score', 'ollama_meteor_score'],
+      dtype='object')
+Run stats

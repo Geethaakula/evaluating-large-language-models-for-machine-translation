@@ -1,0 +1,261 @@
+====Run stats====
+Running for language: Assamese
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.795829702970297
+Avg. gpt_4o_f1_score 0.8389891089108912
+Avg. ollama_f1_score 0.8264019801980198
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.052000000000000005
+Avg. gpt_4o_bleu_score 0.11020000000000002
+Avg. ollama_bleu_score 0.0766
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.25415385070679086
+Avg. gpt_4o_meteor_score 0.39212157996426633
+Avg. ollama_meteor_score 0.3421174674025873
+====End====
+====Run stats====
+Running for language: Bengali
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.8388730000000001
+Avg. gpt_4o_f1_score 0.8743929999999999
+Avg. ollama_f1_score 0.8595809999999999
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.0845
+Avg. gpt_4o_bleu_score 0.1714
+Avg. ollama_bleu_score 0.1418
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.34791799360515335
+Avg. gpt_4o_meteor_score 0.4613195204003508
+Avg. ollama_meteor_score 0.41746610543602913
+====End====
+====Run stats====
+Running for language: Gujrati
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.837972
+Avg. gpt_4o_f1_score 0.8628960000000002
+Avg. ollama_f1_score 0.856627
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.107
+Avg. gpt_4o_bleu_score 0.13540000000000002
+Avg. ollama_bleu_score 0.1292
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.38757479752496565
+Avg. gpt_4o_meteor_score 0.4647455986238199
+Avg. ollama_meteor_score 0.44480619187979914
+====End====
+====Run stats====
+Running for language: Kannada
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.830159
+Avg. gpt_4o_f1_score 0.8712119999999999
+Avg. ollama_f1_score 0.8631399999999999
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.0507
+Avg. gpt_4o_bleu_score 0.11930000000000002
+Avg. ollama_bleu_score 0.1045
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.3108427568439579
+Avg. gpt_4o_meteor_score 0.424459179853031
+Avg. ollama_meteor_score 0.4047481035173135
+====End====
+====Run stats====
+Running for language: Malayalam
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.774325
+Avg. gpt_4o_f1_score 0.8351999999999999
+Avg. ollama_f1_score 0.8283809999999999
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.03
+Avg. gpt_4o_bleu_score 0.07379999999999999
+Avg. ollama_bleu_score 0.0675
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.2159341799811431
+Avg. gpt_4o_meteor_score 0.3309092716700068
+Avg. ollama_meteor_score 0.32892770908969515
+====End====
+====Run stats====
+Running for language: Oriya
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.962966
+Avg. gpt_4o_f1_score 0.9646939999999999
+Avg. ollama_f1_score 0.9743459999999997
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.0126
+Avg. gpt_4o_bleu_score 0.05510000000000001
+Avg. ollama_bleu_score 0.0316
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.18374975631808627
+Avg. gpt_4o_meteor_score 0.3002432856101259
+Avg. ollama_meteor_score 0.3006413973210048
+====End====
+====Run stats====
+Running for language: Punjabi
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.834462
+Avg. gpt_4o_f1_score 0.863432
+Avg. ollama_f1_score 0.8600630000000001
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.07050000000000001
+Avg. gpt_4o_bleu_score 0.1547
+Avg. ollama_bleu_score 0.1304
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.373635840239672
+Avg. gpt_4o_meteor_score 0.49046470613474163
+Avg. ollama_meteor_score 0.46645127871361886
+====End====
+====Run stats====
+Running for language: Tamil
+Average BERT Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_f1_score', 'gpt_4o_f1_score', 'ollama_f1_score'],
+      dtype='object')
+Avg. gpt_35_f1_score 0.8026929999999999
+Avg. gpt_4o_f1_score 0.849614
+Avg. ollama_f1_score 0.839641
+Average BLEU Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_bleu_score', 'gpt_4o_bleu_score', 'ollama_bleu_score'],
+      dtype='object')
+Avg. gpt_35_bleu_score 0.0795
+Avg. gpt_4o_bleu_score 0.11629999999999999
+Avg. ollama_bleu_score 0.10719999999999999
+Average METEOR Scores
+Index(['idx', 'las', 'src', 'tgt', 'las_score_dbl', 'src_gt_8_words',
+       'tgt_gt_8_words', 'gpt_3_5_trans', 'gpt_4o_trans', 'ollama_trans',
+       'gpt_35_meteor_score', 'gpt_4o_meteor_score', 'ollama_meteor_score'],
+      dtype='object')
+Avg. gpt_35_meteor_score 0.2908571418225574
+Avg. gpt_4o_meteor_score 0.4042225148810546
+Avg. ollama_meteor_score 0.3679896869962926
+====End====
+====Run stats====
+Running for language: Hindi
+Average BERT Scores
+Avg. gpt_35_f1_score 0.874819
+Avg. gpt_4o_f1_score 0.8964279999999999
+Avg. ollama_f1_score 0.882236
+Average BLEU Scores
+Avg. gpt_35_bleu_score 0.22400000000000003
+Avg. gpt_4o_bleu_score 0.34340000000000004
+Avg. ollama_bleu_score 0.2858
+Average METEOR Scores
+Avg. gpt_35_meteor_score 0.5493641137142098
+Avg. gpt_4o_meteor_score 0.6362320802965983
+Avg. ollama_meteor_score 0.5769374723800035
+====End====
+====Run stats====
+Running for language: Marathi
+Average BERT Scores
+Avg. gpt_35_f1_score 0.7858890000000003
+Avg. gpt_4o_f1_score 0.865723
+Avg. ollama_f1_score 0.8498709999999999
+Average BLEU Scores
+Avg. gpt_35_bleu_score 0.0365
+Avg. gpt_4o_bleu_score 0.1661
+Avg. ollama_bleu_score 0.11289999999999999
+Average METEOR Scores
+Avg. gpt_35_meteor_score 0.23969255116212562
+Avg. gpt_4o_meteor_score 0.4858181156530552
+Avg. ollama_meteor_score 0.42092518075269963
+====End====
+====Run stats====
+Running for language: Telugu
+Average BERT SCORES
+Avg. gpt_35_f1_score 0.807204
+Avg. gpt_4o_f1_score 0.859392
+Avg. ollama_f1_score 0.845883
+Average BLEU Scores
+Avg. gpt_35_bleu_score 0.0346
+Avg. gpt_4o_bleu_score 0.09919999999999998
+Avg. ollama_bleu_score 0.07780000000000001
+Average Meteor Scores
+Avg. gpt_35_meteor_score 0.2442198337766573
+Avg. gpt_4o_meteor_score 0.4095856381061143
+Avg. ollama_meteor_score 0.37337330090767973
+====End====
